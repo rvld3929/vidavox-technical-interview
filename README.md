@@ -1,3 +1,5 @@
+# Documentation
+
 #### Topic: Wakanda Country Statistical Report - The Richest Country Nobody Knows About
 
 ### **1. Generate Synthetic Dataset: Database/SQL**  

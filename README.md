@@ -47,7 +47,7 @@ The entire process is implemented using **LangChain**, ensuring a structured, sc
 1. **Splitting the PDF into Chunks**  
    - The synthetic PDF is first split into multiple **chunks** using **RecursiveCharacterTextSplitter** from LangChain.  
    - Chunking parameters:  
-     - **Chunk size:** 100  
+     - **Chunk size:** 1000  
      - **Chunk overlap:** 100  
      - **Separator:** Ensures each chunk remains a complete paragraph.  
 
